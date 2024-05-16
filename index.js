@@ -1,5 +1,5 @@
 let botonBuscar = document.getElementById("botonBuscar");
-const clave = 'a0ec3d99569b3eb577eb031b8d35db04'
+const clave = '490aabb8938c99666e4b169985ab7cea'
 
 function ciudadPorDefecto() {
     const url = `https://api.openweathermap.org/data/2.5/weather?q=tandil&lang=es&appid=${clave}`;
